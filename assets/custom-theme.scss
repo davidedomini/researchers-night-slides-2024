@@ -249,6 +249,14 @@ kbd {
 	text-align: center;
 }
 
+.text-right {
+	text-align: right;
+}
+
+.text-left {
+	text-align: left;
+}
+
 .flex {
 	display: flex;
 	justify-content: center;
@@ -268,10 +276,11 @@ kbd {
 }
 
 .reveal .slide-background:after {
-	content: "M. Baiardi - Supporting Autonomic Computing via BDI Tooling - ACSOS PhD Symposium 2024";
+	content: "";
 	position: absolute;
 	bottom: 2.5%;
 	left: 13%;
 	z-index: -1;
 	font-size: .5em;
   }
+
