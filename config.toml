@@ -1,6 +1,6 @@
-baseURL = "https://anitvam.github.io/acsos-2024-phd-slides"
-languageCode = "en-us"
-title = "Supporting Autonomic Computing via BDI Tooling"
+baseURL = "https://anitvam.github.io/researchers-night-slides-2024"
+languageCode = "it-IT"
+title = "Ecosistemi coordinati di robot programmabili"
 disableKinds = ["sitemap", "RSS"]
 theme = "reveal-hugo"
 publishDir = "build"
