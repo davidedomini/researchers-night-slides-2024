@@ -35,7 +35,7 @@ outputs = ["Reveal"]
 <img src="example-background.svg" width="25%" class="my-5" />
 
 <div style="font-size: 0.8em">
-Gianluca Aguzzi, Martina Baiardi, Roberto Casadei, <br/>
+Gianluca Aguzzi, Martina Baiardi, Roberto Casadei,  Angela Cortecchia, <br/>
 Davide Domini, Nicolas Farabegoli, Danilo Pianini, Mirko Viroli
 </div>
 
